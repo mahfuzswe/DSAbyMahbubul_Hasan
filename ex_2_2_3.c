@@ -17,4 +17,4 @@ int main()
 
 // output:
 // Enter 3 sides of triangle: 8 6 7
-// Area is : 20.33
+// Area is : 20.33 square unit
