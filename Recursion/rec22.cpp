@@ -1,12 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void getcounting(int n){   
-    if(n==0) return; 
+void getcounting(int n){    //3  2
+    if(n==0) return;  
     
-    cout<<n<<endl;
+    cout<<n<<endl;  //3 2
 
-    getcounting(n-1); 
+    getcounting(n-1); // 2 1
     
 
 }
